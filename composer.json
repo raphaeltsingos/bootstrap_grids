@@ -8,11 +8,6 @@
   "support": {
     "issues": "https://github.com/laxap/bootstrap_grids/issues"
   },
-  "require": {
-    "php": ">=5.5.0",
-    "typo3/cms": "^7.6 || ^8.7",
-    "gridelementsteam/gridelements" : "^8.2.3"
-  },
   "autoload": {
     "psr-4": {
       "Laxap\\BootstrapGrids\\": "Classes"
